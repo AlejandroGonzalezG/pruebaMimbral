@@ -1,6 +1,6 @@
 ## For the backend
 
-To run the backend, you have to enter inside like
+To run the backend, you have to enter inside of
 
 ```cd mimbral_backend/mimbral_backend```
 
@@ -12,7 +12,7 @@ You can use the api to create users, login or logout using username, email and p
 
 ## For the frontend
 
-To run the frontent, you have to enter inside of:
+To run the frontent, you have to enter inside of
 
 ```cd mimbral_front ```
 
